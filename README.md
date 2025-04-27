@@ -24,3 +24,4 @@ Conflict resolved
 
 Line 24 added sone changes 
 
+Git ADD user 1 

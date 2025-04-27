@@ -14,6 +14,7 @@ Keeping only changes made by user 1 for user 2
 
 
 
+
 ### all conflicts are resolved 
 ADD MORE CHANGES 
 
@@ -29,4 +30,7 @@ Change in line 22
 # Merged all conflicts errors
 
 ### all conflicts are resolved 
+
+### all conflicts are resolved 
+ADD MORE CHANGES 
 

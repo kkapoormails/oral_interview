@@ -24,3 +24,4 @@ Conflict resolved
 
 Conflict emergers from this line
 
+Git ADD user 1 

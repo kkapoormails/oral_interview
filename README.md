@@ -1,40 +1,5 @@
+cleared all the changes 
 
-USER 1 All CHANGES 
+Making new changes and then will push them ahead for conflict
 
-USER 1 Is making more changes without pulling 
-
-
-USER 1 
-Keeping only changes made by user 1 for user 2
-
-
-# Make changes for user 2 to arise conflict
-
-## Merge conflicts now no issue present
-
-
-
-
-### all conflicts are resolved 
-ADD MORE CHANGES 
-
-### 
-Adding more lines for issue 
-
-### all conflicts are resolved 
-# merge all things 
-Keeping final changes 
-
-Change in line 22 
-
-
-User 1 change for conflict 
-
-# Merged all conflicts errors
-
-### all conflicts are resolved 
-
-### all conflicts are resolved 
-ADD MORE CHANGES 
-Resolved all conflicts errors
-
+# User 1 

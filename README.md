@@ -13,3 +13,4 @@ Keeping only changes made by user 1 for user 2
 ## Merge conflicts now no issue present
 
 ### all conflicts are resolved 
+ADD MORE CHANGES 

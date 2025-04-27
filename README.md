@@ -8,10 +8,8 @@ cleared all the changes
 Making new changes and then will push them ahead for conflict
 
 
-# User 1 
-
-## Adding more line for conflict 
+KEEP THE FINAL CHANGES FOR USER 1
 
 
-# User 1 
-We kept all the changes
+KEPT NONE CHANGES THIS IS FINA:
+# add final change USER 1+2

@@ -18,3 +18,5 @@ Adding more lines for issue
 ### all conflicts are resolved 
 # merge all things 
 Keeping final changes 
+
+Change in line 22 

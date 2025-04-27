@@ -12,6 +12,12 @@ Keeping only changes made by user 1 for user 2
 
 ## Merge conflicts now no issue present
 
+
+
+
+### all conflicts are resolved 
+ADD MORE CHANGES 
+
 ### 
 Adding more lines for issue 
 
@@ -21,4 +27,14 @@ Keeping final changes
 
 Change in line 22 
 
+
 User 1 change for conflict 
+
+# Merged all conflicts errors
+
+### all conflicts are resolved 
+
+### all conflicts are resolved 
+ADD MORE CHANGES 
+Resolved all conflicts errors
+

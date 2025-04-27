@@ -15,4 +15,4 @@ FINAL CHANGE FOR GIT REVERT
 Updated the file after revert error 
 
 Made the final change with correct spellings 
-USER 1 Making changes 
+User 1 makes more changes without pulling the changes from user 2 

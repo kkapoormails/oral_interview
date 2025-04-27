@@ -21,4 +21,6 @@ USER 2 MAKING MORE CHANGES for user 21
 User 1 makes more changes without pulling the changes from user 2 
 Conflict resolved 
 
-Can we make some changes here?
+
+Line 24 added sone changes 
+

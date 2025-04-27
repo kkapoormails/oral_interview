@@ -20,3 +20,5 @@ Adding more lines for issue
 Keeping final changes 
 
 Change in line 22 
+
+User 1 change for conflict 
